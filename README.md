@@ -6,7 +6,7 @@ Bring LLMs to Siri!
 First download Shortcut for iOS, iPadOS or MacOS.
 
 ## Step 2: Get chatGPT
-Then download and configure chatGPT dhortcut which saves your OpenAI API key and various parameters to ise while chatting with your adsistant.
+Then download and configure chatGPT shortcut which saves your OpenAI API key and various parameters to ise while chatting with your adsistant.
 
 [Get chatGPT](https://www.icloud.com/shortcuts/c25ff03b933648e3b0fa9473093b14d1)
 
